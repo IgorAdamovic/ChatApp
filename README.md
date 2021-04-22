@@ -4,7 +4,7 @@ Realtime chat application + Authentication system
 
 ## About the project 
 
-Fully responsive, mobile-friendly chat application made for internal use of <a href="https://www.recognite.co.uk/">Recognite Ltd</a>. This app is still in development stage.
+Fully responsive, mobile-friendly chat application made for internal use of <a href="https://www.recognite.co.uk/">Recognite Ltd</a>. This app is still in development stage, but has 
 
 ## Firebase setup 
 
