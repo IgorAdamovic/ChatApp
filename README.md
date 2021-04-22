@@ -14,7 +14,7 @@ Project settings -> Web settings (</>) -> Register app (chat-app) -> Add Firebas
 
 ### Build
 
-Authentication -> Get Started -> enable Email/Password
+Authentication -> Get Started -> Enable Email/Password
 
 Firestore -> Create database at Cloud Firestore (Start in test mode)
 
